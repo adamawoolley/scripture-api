@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+{% block header %}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script>
+    var books = {{ books | safe}}
+
+    var change_book = function() {
+      $("#book").empty();
+      for (book in books[$("#testament option:selected").text()]) {
+        $("#book").append($("<option>", {
+          value: books[$("#testament option:selected").text()][book][0],
+          text: book
+        }));
+      };
+    };
+
+    var change_chapter = function() {
+      $("#chapter").empty();
+      var chapters = Number(books[$("#testament option:selected").text()][$("#book option:selected").text()][1]);
+      for (i=1; i < chapters + 1; i++) {
+        $("#chapter").append($("<option>", {
+          value: String(i),
+          text: String(i)
+        }));
+      };
+    };
+
+    var show_chapters = function() {
+      var url = "/get_chapter?testament=" + $("#testament option:selected").attr("value") + "&book=" + $("#book option:selected").attr("value") + "&chapter=" + $("#chapter option:selected").attr("value");
+      var url1 = url + "&lang=" + $("#lang1 option:selected").attr("value");
+      var url2 = url + "&lang=" + $("#lang2 option:selected").attr("value");
+      $("#lang1content").load(url1, function(responseTxt, statusTxt, xhr){
+        if(statusTxt == "success")
+          console.log(responseTxt)
+        if(statusTxt == "error")
+          alert("Error: " + xhr.status + ": " + xhr.statusText);
+      });
+      $("#lang2content").load(url2, function(responseTxt, statusTxt, xhr){
+        if(statusTxt == "success")
+          console.log(responseTxt)
+        if(statusTxt == "error")
+          alert("Error: " + xhr.status + ": " + xhr.statusText);
+      });
+    };
+
+    $(document).ready(function(){
+
+      change_book();
+      change_chapter();
+      show_chapters();
+
+      $("#testament").change(function(){
+        change_book();
+        change_chapter();
+        show_chapters();
+      });
+
+      $("#book").change(function() {
+        change_chapter();
+        show_chapters();
+      });
+
+    $("#chapter").change(function() {
+      show_chapters();
+    })
+
+    $("#lang1").change(function() {
+      show_chapters();
+    })
+
+    $("#lang2").change(function() {
+      show_chapters();
+    })
+
+      //  $("#chapter").empty();
+      //  var chapters = books[$("#testament option:selected").text()][$("#book option:selected").text()][1]
+      //  console.log(chapters)
+      //  for (i=1; i <= Number(chapters); i++) {
+      //    console.log(i)
+      //    $("#chapter").append($("<option", {
+      //      value: i,
+      //      text: i
+      //    }));
+      //    };
+      //  $("#chapter").show();
+      //  };
+      //}
+
+    });
+  </script>
+{% endblock %}
+{% block content %}
+  <div id="form" action="/testaments" method="get">
+    <select id="testament">
+      {% for testament, name in testaments.items() %}
+        <option value={{ testament }}>{{ name}}</option>
+      {% endfor %}
+    </select>
+    <select id="book">
+    </select>
+    <select id="chapter">
+    </select>
+  </div>
+  <div style="width:100%;" id="chaptercontainer">
+        <div style="float:left; display:inline-block; width:50%">
+          <select id="lang1">
+            {% for lang, name in langs.items() %}
+              <option value={{ lang }}>{{ name }}</option>
+            {% endfor %}
+          </select>
+          <div id="lang1content">
+
+          </div>
+        </div>
+        <div style="float:right; display:inline-block; width:50%">
+          <select id="lang2">
+            {% for lang, name in langs.items() %}
+              <option value={{ lang }}>{{ name }}</option>
+            {% endfor %}
+          </select>
+          <div id="lang2content">
+
+          </div>
+        </div>
+  </div> ​
+
+{% endblock %}
