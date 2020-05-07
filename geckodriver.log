@@ -183,3 +183,1362 @@ JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WR
 [Parent 72083, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
 JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
 1588796635000	Marionette	INFO	Stopped listening on port 32997
+1588809677133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejQY9dB"
+1588809677956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809677956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809677957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809677957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809679210	Marionette	INFO	Listening on port 44211
+1588809679240	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 73898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 73898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 73898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588809695863	Marionette	INFO	Stopped listening on port 44211
+1588809724909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewWJBzZ"
+1588809725283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809725283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809725283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809725283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809726557	Marionette	INFO	Listening on port 46593
+1588809726614	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 74238, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 74238, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 74238, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588809751374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelHL1iZ"
+1588809751769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809751770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809751770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809751770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809753031	Marionette	INFO	Listening on port 35427
+1588809753080	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 74548, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 74548, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 74548, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588809769075	Marionette	INFO	Stopped listening on port 35427
+1588809785711	Marionette	INFO	Stopped listening on port 46593
+1588809785915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCWTsEU"
+1588809786295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809786295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809786296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809786296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809787596	Marionette	INFO	Listening on port 36091
+1588809787621	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 74873, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 74873, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 74873, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588809818923	Marionette	INFO	Stopped listening on port 36091
+1588809872251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTtM3zB"
+1588809872638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809872638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809872638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809872639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809873943	Marionette	INFO	Listening on port 45311
+1588809873958	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 75207, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 75207, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 75207, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588809894844	Marionette	INFO	Stopped listening on port 45311
+1588809906747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewlo0Ii"
+1588809907141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809907141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809907141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809907141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809908431	Marionette	INFO	Listening on port 40465
+1588809908456	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 75529, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 75529, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 75529, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588809921838	Marionette	INFO	Stopped listening on port 40465
+1588809929122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5k4uta"
+1588809929510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588809929510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588809929510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588809929510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588809930783	Marionette	INFO	Listening on port 33241
+1588809930828	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 75852, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 75852, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588809935155	Marionette	INFO	Stopped listening on port 33241
+1588810056962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMKdim3"
+1588810057351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810057351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810057351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810057351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810058623	Marionette	INFO	Listening on port 43283
+1588810058668	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 76189, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 76189, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 76189, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588810109031	Marionette	INFO	Stopped listening on port 43283
+1588810111742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2lizXM"
+1588810112125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810112125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810112126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810112126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810113391	Marionette	INFO	Listening on port 41567
+1588810113450	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 76536, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 76536, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588810117786	Marionette	INFO	Stopped listening on port 41567
+[Parent 76536, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1588810228510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH0KVas"
+1588810228905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810228905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810228905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810228906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810230193	Marionette	INFO	Listening on port 41971
+1588810230217	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 76870, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 76870, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588810237190	Marionette	INFO	Stopped listening on port 41971
+1588810324103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB6kgRF"
+1588810324484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810324484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810324484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810324484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810325768	Marionette	INFO	Listening on port 43531
+1588810325810	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 77193, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 77193, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588810330627	Marionette	INFO	Stopped listening on port 43531
+1588810393328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexyr0C6"
+1588810393716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810393716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810393716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810393716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810394982	Marionette	INFO	Listening on port 35395
+1588810395034	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 77514, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 77514, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588810401547	Marionette	INFO	Stopped listening on port 35395
+1588810457680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHI0Df1"
+1588810458075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810458075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810458075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810458075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810459351	Marionette	INFO	Listening on port 40835
+1588810459386	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 77858, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 77858, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588810466170	Marionette	INFO	Stopped listening on port 40835
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1588810613994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehYrOXu"
+1588810614396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810614396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810614396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810614396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810615698	Marionette	INFO	Listening on port 37337
+1588810615707	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 78188, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 78188, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588810619980	Marionette	INFO	Stopped listening on port 37337
+1588812934860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile69Ya2l"
+1588812935251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812935251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812935253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812935253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812936524	Marionette	INFO	Listening on port 41393
+1588812936567	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 79633, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 79633, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588812942473	Marionette	INFO	Stopped listening on port 41393
+1588812987091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFbUx7"
+1588812987475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812987475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812987475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812987476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812988758	Marionette	INFO	Listening on port 46441
+1588812988797	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 79930, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 79930, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 79930, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588813024058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaLUuzS"
+1588813024441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813024441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813024441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813024442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813025770	Marionette	INFO	Listening on port 41867
+1588813025917	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 80221, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 80221, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 80221, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588813042875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUDYNDX"
+1588813043271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813043271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813043271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813043271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813044584	Marionette	INFO	Listening on port 46795
+1588813044695	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 80507, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 80507, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 80507, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 79930, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 79930, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588813102589	Marionette	INFO	Stopped listening on port 46441
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588813108942	Marionette	INFO	Stopped listening on port 46795
+1588813659610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileucxg2P"
+1588813660003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813660003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813660003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813660003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813661251	Marionette	INFO	Listening on port 44995
+1588813661317	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 80952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 80952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 80952, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588813676343	Marionette	INFO	Stopped listening on port 44995
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588813906604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewAcQ93"
+1588813906994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813906994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813906994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813906994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813908303	Marionette	INFO	Listening on port 38501
+1588813908311	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 81303, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 81303, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 81303, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588813922868	Marionette	INFO	Stopped listening on port 38501
+1588813987319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep5klq0"
+1588813987704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813987704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813987705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813987705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813988984	Marionette	INFO	Listening on port 45415
+1588813989025	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 81630, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 81630, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 81630, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814003335	Marionette	INFO	Stopped listening on port 45415
+1588814495272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMIRPP"
+1588814495683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814495683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814495683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814495683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814497004	Marionette	INFO	Listening on port 35055
+1588814497079	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 82023, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 82023, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814504375	Marionette	INFO	Stopped listening on port 35055
+1588814508935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexck5Z4"
+1588814509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814510620	Marionette	INFO	Listening on port 44867
+1588814510641	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 82315, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 82315, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814515565	Marionette	INFO	Stopped listening on port 44867
+1588814520230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAIMuhY"
+1588814520614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814520614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814520615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814520615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814521922	Marionette	INFO	Listening on port 41063
+1588814521939	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 82604, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 82604, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814526992	Marionette	INFO	Stopped listening on port 41063
+1588814531663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEXPaFt"
+1588814532065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814532065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814532067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814532067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814533354	Marionette	INFO	Listening on port 38851
+1588814533370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 82897, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 82897, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814539419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ3zlV1"
+1588814539811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814539811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814539812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814539812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814541163	Marionette	INFO	Listening on port 37489
+1588814541227	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 82897, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 83184, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 83184, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814547413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6DH3Gf"
+1588814547826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814547826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814547826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814547826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814549183	Marionette	INFO	Listening on port 34151
+1588814549220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 83184, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 83465, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 83465, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814556184	Marionette	INFO	Stopped listening on port 34151
+1588814560742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletfSwZk"
+1588814561137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814561138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814561138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814561138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814562457	Marionette	INFO	Listening on port 35713
+1588814562551	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 83753, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 83753, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814568352	Marionette	INFO	Stopped listening on port 35713
+1588814572011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem1ocZy"
+1588814572402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814572402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814572402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814572402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814573654	Marionette	INFO	Listening on port 43099
+1588814573717	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 84037, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 84037, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814580497	Marionette	INFO	Stopped listening on port 43099
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814585166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4HbXAm"
+1588814585574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814585574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814585574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814585574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814586832	Marionette	INFO	Listening on port 35585
+1588814586872	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 84323, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 84323, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814595656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Toi8i"
+1588814596053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814596053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814596054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814596054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 84323, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814597324	Marionette	INFO	Listening on port 42349
+1588814597365	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 84604, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 84604, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814605468	Marionette	INFO	Stopped listening on port 42349
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814610372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2xJ5bd"
+1588814610774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814610774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814610776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814610776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814612073	Marionette	INFO	Listening on port 34855
+1588814612081	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 84895, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 84895, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814620021	Marionette	INFO	Stopped listening on port 34855
+1588814624581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU2qZ7Z"
+1588814624968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814624968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814624969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814624969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814626299	Marionette	INFO	Listening on port 39699
+1588814626392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 85181, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 85181, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814631651	Marionette	INFO	Stopped listening on port 39699
+1588814638214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq4hrPt"
+1588814638601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814638602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814638602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814638602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814639879	Marionette	INFO	Listening on port 44735
+1588814639934	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 85465, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 85465, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814645145	Marionette	INFO	Stopped listening on port 44735
+1588814650815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE6dhJJ"
+1588814651208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814651209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814651209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814651209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814652536	Marionette	INFO	Listening on port 41689
+1588814652621	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 85754, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 85754, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814664099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVn9oMn"
+1588814664524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814664524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814664526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814664526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814665898	Marionette	INFO	Listening on port 34423
+1588814665908	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 85754, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 86042, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 86042, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814673410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ4yXIP"
+1588814673817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814673817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814673817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814673817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814675137	Marionette	INFO	Listening on port 43541
+1588814675216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 86042, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 84323, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814677961	Marionette	INFO	Stopped listening on port 35585
+[Parent 82897, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 86323, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814679521	Marionette	INFO	Stopped listening on port 38851
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 86323, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814681061	Marionette	INFO	Stopped listening on port 37489
+[Parent 80221, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814682230	Marionette	INFO	Stopped listening on port 41867
+1588814683393	Marionette	INFO	Stopped listening on port 43541
+1588814684884	Marionette	INFO	Stopped listening on port 41689
+1588814686944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEfmH0f"
+1588814687341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814687341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814687342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814687342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814688731	Marionette	INFO	Listening on port 33299
+1588814688751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588814690836	Marionette	INFO	Stopped listening on port 34423
+Attempting load of libEGL.so
+[Parent 86649, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 86649, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814694524	Marionette	INFO	Stopped listening on port 33299
+1588814699190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem3LPsI"
+1588814699576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814699576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814699576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814699576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814700852	Marionette	INFO	Listening on port 44103
+1588814700897	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 86958, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 86958, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814706313	Marionette	INFO	Stopped listening on port 44103
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814710969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBTw5T1"
+1588814711437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814711437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814711437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814711438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814712782	Marionette	INFO	Listening on port 39735
+1588814712878	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 87256, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 87256, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814718795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecR4nQB"
+1588814719193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814719193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814719193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814719194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814720528	Marionette	INFO	Listening on port 45795
+1588814720602	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 87256, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 87541, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 87541, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814729093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8hgLJ"
+1588814729576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814729576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814729577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814729577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814731130	Marionette	INFO	Listening on port 34413
+1588814731204	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 87541, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 87823, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 87823, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814739780	Marionette	INFO	Stopped listening on port 34413
+1588814745311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7rk1P2"
+1588814745705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814745705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814745705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814745705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814747078	Marionette	INFO	Listening on port 36559
+1588814747117	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 88113, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 88113, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814754501	Marionette	INFO	Stopped listening on port 36559
+1588814760241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledA0nD4"
+1588814760676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814760677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814760677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814760677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814762041	Marionette	INFO	Listening on port 43091
+1588814762051	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 88395, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 88395, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814771617	Marionette	INFO	Stopped listening on port 43091
+1588814774183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTWzKuP"
+1588814774574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814774574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814774574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814774574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814776030	Marionette	INFO	Listening on port 43887
+1588814776125	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 88691, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 88691, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814781732	Marionette	INFO	Stopped listening on port 43887
+1588814795298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNFQ5PO"
+1588814795688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814795688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814795688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814795688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814797027	Marionette	INFO	Listening on port 41321
+1588814797105	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 88977, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 88977, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814802557	Marionette	INFO	Stopped listening on port 41321
+1588814807222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Jk13y"
+1588814807629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814807629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814807630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814807630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814809013	Marionette	INFO	Listening on port 36067
+1588814809030	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 89263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 89263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814815094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemy051L"
+1588814815500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814815500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814815500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814815500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814816797	Marionette	INFO	Listening on port 33391
+1588814816813	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 89263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 89543, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 89543, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814823810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTDZO8C"
+1588814824221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814824221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814824221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814824221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814825759	Marionette	INFO	Listening on port 39281
+1588814825820	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 89543, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 89822, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 89822, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588814834209	Marionette	INFO	Stopped listening on port 39281
+1588814840090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL49d2t"
+1588814840506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814840506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814840506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814840506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814842007	Marionette	INFO	Listening on port 42689
+1588814842099	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 90109, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 90109, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814849251	Marionette	INFO	Stopped listening on port 42689
+1588814853821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGusjY"
+1588814854219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814854219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814854219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814854219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814855648	Marionette	INFO	Listening on port 42723
+1588814855729	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 90396, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 90396, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814865132	Marionette	INFO	Stopped listening on port 42723
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814869707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJClEQ5"
+1588814870105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814870106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814870106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814870106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814871463	Marionette	INFO	Listening on port 41131
+1588814871513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 90687, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 90687, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814879017	Marionette	INFO	Stopped listening on port 41131
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814883224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXSou4a"
+1588814883624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814883624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814883624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814883624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814885139	Marionette	INFO	Listening on port 37323
+1588814885230	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 90985, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 90985, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814893702	Marionette	INFO	Stopped listening on port 37323
+1588814898371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezbcLVZ"
+1588814899815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814899815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814899815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814899815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814901383	Marionette	INFO	Listening on port 40113
+1588814901483	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 91280, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 91280, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814908303	Marionette	INFO	Stopped listening on port 40113
+1588814911870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledBHhS3"
+1588814912263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814912264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814912264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814912264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814913734	Marionette	INFO	Listening on port 38505
+1588814913808	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 87256, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+Attempting load of libEGL.so
+1588814917186	Marionette	INFO	Stopped listening on port 39735
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814918374	Marionette	INFO	Stopped listening on port 45795
+[Parent 91568, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 91568, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814920545	Marionette	INFO	Stopped listening on port 38505
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-sw.js, line 1: NetworkError: Failed to load worker script at https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-core.prod.js (nsresult = 0x80530013)
+1588814925217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSS7B9D"
+1588814925625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814925625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814925626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814925626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814927010	Marionette	INFO	Listening on port 37099
+1588814927024	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 89263, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814929640	Marionette	INFO	Stopped listening on port 36067
+[Parent 89543, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588814930794	Marionette	INFO	Stopped listening on port 33391
+Attempting load of libEGL.so
+[Parent 91867, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 91867, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814935184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileipwWaI"
+1588814935586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814935586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814935586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814935586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814936919	Marionette	INFO	Listening on port 43339
+1588814936990	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 91867, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 92167, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 92167, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814943953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefphQ8d"
+1588814944362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814944362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814944362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814944362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814945765	Marionette	INFO	Listening on port 41597
+1588814945860	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 92167, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 92453, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 92453, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814954675	Marionette	INFO	Stopped listening on port 41597
+1588814959244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1NRLfV"
+1588814959569	Marionette	INFO	Stopped listening on port 37099
+1588814959695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814959695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814959695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814959695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814961087	Marionette	INFO	Listening on port 46185
+1588814961197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588814961616	Marionette	INFO	Stopped listening on port 43339
+Attempting load of libEGL.so
+[Parent 92745, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 92745, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814972083	Marionette	INFO	Stopped listening on port 46185
+1588814982655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJGu1R6"
+1588814983047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814983047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814983048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814983048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814984346	Marionette	INFO	Listening on port 38089
+1588814984361	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 93051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 93051, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588814999142	Marionette	INFO	Stopped listening on port 38089
+1588815003683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebv2uso"
+1588815004074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815004074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815004075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815004075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815005354	Marionette	INFO	Listening on port 45171
+1588815005390	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 93350, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 93350, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815012613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerrFIEY"
+1588815013012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815013013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815013013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815013013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815014366	Marionette	INFO	Listening on port 42449
+1588815014422	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 93350, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 93640, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 93640, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815022270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaK3E5Y"
+1588815022673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815022673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815022673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815022673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815023990	Marionette	INFO	Listening on port 40293
+1588815024076	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 93640, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 93935, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 93935, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815032950	Marionette	INFO	Stopped listening on port 40293
+1588815036512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledY6zEV"
+1588815036907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815036907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815036908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815036908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815038167	Marionette	INFO	Listening on port 34115
+1588815038218	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 94230, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 94230, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815044846	Marionette	INFO	Stopped listening on port 34115
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815048505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6w0Zbf"
+1588815048923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815048924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815048926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815048926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815050233	Marionette	INFO	Listening on port 37621
+1588815050312	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 94515, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 94515, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815060193	Marionette	INFO	Stopped listening on port 37621
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815064774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebod5i4"
+1588815065196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815065196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815065197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815065197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815066499	Marionette	INFO	Listening on port 46683
+1588815066591	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 94806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 94806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815073134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIVKP16"
+1588815073558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815073558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815073558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815073559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815074890	Marionette	INFO	Listening on port 37651
+1588815074940	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 94806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 95092, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 95092, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815082929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU58cm7"
+1588815083342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815083342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815083342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815083342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815084697	Marionette	INFO	Listening on port 38345
+1588815084736	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 95092, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815094957	Marionette	INFO	Stopped listening on port 45171
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815096043	Marionette	INFO	Stopped listening on port 42449
+1588815096479	Marionette	INFO	Stopped listening on port 38345
+1588815099431	Marionette	INFO	Stopped listening on port 46683
+1588815100672	Marionette	INFO	Stopped listening on port 37651
+1588815101044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenfXmwG"
+1588815101437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815101437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815101437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815101437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815102762	Marionette	INFO	Listening on port 41825
+1588815102850	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 95700, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 95700, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815111882	Marionette	INFO	Stopped listening on port 41825
+1588815116464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS27It4"
+1588815116846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815116846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815116846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815116846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815118144	Marionette	INFO	Listening on port 39293
+1588815118173	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 95995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 95995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815123518	Marionette	INFO	Stopped listening on port 39293
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815128179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJEVoOL"
+1588815128569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815128569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815128569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815128569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815129897	Marionette	INFO	Listening on port 36719
+1588815129992	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 96295, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 96295, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815136464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2XxiUi"
+1588815136882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815136882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815136883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815136883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815138219	Marionette	INFO	Listening on port 36347
+1588815138275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 96295, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 96589, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 96589, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815145089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHSKhsS"
+1588815145504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815145505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815145505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815145505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815146846	Marionette	INFO	Listening on port 33745
+1588815146895	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 96589, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 96887, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 96887, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815156448	Marionette	INFO	Stopped listening on port 36347
+1588815156758	Marionette	INFO	Stopped listening on port 33745
+1588815159709	Marionette	INFO	Stopped listening on port 36719
+1588815161195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCiWLwW"
+1588815161597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815161597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815161597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815161597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815162934	Marionette	INFO	Listening on port 33623
+1588815163002	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 97192, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 97192, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815172299	Marionette	INFO	Stopped listening on port 33623
+1588815177836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG22SCf"
+1588815178254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815178254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815178254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815178255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815179571	Marionette	INFO	Listening on port 39079
+1588815179642	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 97492, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 97492, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815190216	Marionette	INFO	Stopped listening on port 39079
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815193776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGmlJ7"
+1588815194170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815194170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815194170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815194171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815195486	Marionette	INFO	Listening on port 33447
+1588815195582	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 97792, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 97792, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815202211	Marionette	INFO	Stopped listening on port 33447
+1588815221196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen3J4dX"
+1588815221590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815221590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815221590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815221590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815222905	Marionette	INFO	Listening on port 44753
+1588815223002	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 98087, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 98087, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815232184	Marionette	INFO	Stopped listening on port 44753
+1588815235746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo8NkND"
+1588815236156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815236156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815236156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815236156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815237759	Marionette	INFO	Listening on port 41939
+1588815237854	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 98478, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 98478, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815248179	Marionette	INFO	Stopped listening on port 41939
+1588815251754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevn613c"
+1588815252144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815252144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815252144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815252144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815253465	Marionette	INFO	Listening on port 35899
+1588815253561	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 98785, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 98785, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815264302	Marionette	INFO	Stopped listening on port 35899
+1588815268872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3HfCGW"
+1588815269304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815269305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815269305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815269305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815270727	Marionette	INFO	Listening on port 38417
+1588815270825	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 99148, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 99148, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815283318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9QO23v"
+1588815283751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815283752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815283752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815283752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815285100	Marionette	INFO	Listening on port 33633
+1588815285126	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 99148, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 99446, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 99446, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815296467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGFwdvt"
+1588815296871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815296871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815296871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815296872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815298260	Marionette	INFO	Listening on port 43757
+1588815298274	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 99446, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 99742, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 99742, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815306287	Marionette	INFO	Stopped listening on port 43757
+1588815311115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecS8U7c"
+1588815311501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815311501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815311501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815311501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815312822	Marionette	INFO	Listening on port 40105
+1588815312969	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 100029, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 100029, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 100029, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815328824	Marionette	INFO	Stopped listening on port 40105
+1588815333404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBZkKHW"
+1588815333811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815333811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815333811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815333811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815335160	Marionette	INFO	Listening on port 39669
+1588815335214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 100324, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 100324, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815350074	Marionette	INFO	Stopped listening on port 39669
+1588815354643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGnHNAT"
+1588815355042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815355043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815355043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815355043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815356390	Marionette	INFO	Listening on port 34641
+1588815356460	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 100614, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 100614, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815365922	Marionette	INFO	Stopped listening on port 34641
+1588815369500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefQXhXE"
+1588815369895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815369896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815369896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815369896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815371211	Marionette	INFO	Listening on port 46775
+1588815371328	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 100898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 100898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815380298	Marionette	INFO	Stopped listening on port 46775
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815383862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOIbpcK"
+1588815384255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815384255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815384256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815384256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815385518	Marionette	INFO	Listening on port 39499
+1588815385568	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 101188, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 101188, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815393462	Marionette	INFO	Stopped listening on port 39499
+1588815398037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaC9jPP"
+1588815398425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815398425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815398425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815398425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815399687	Marionette	INFO	Listening on port 39391
+1588815399743	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 99148, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815405085	Marionette	INFO	Stopped listening on port 38417
+[Parent 101473, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 101473, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 99446, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 99570, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815406422	Marionette	INFO	Stopped listening on port 33633
+1588815406521	Marionette	INFO	Stopped listening on port 39391
+1588815411084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMm5n43"
+1588815411494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815411494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815411495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815411495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815412824	Marionette	INFO	Listening on port 34425
+1588815412892	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 101782, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 101782, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815420888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexfJo2R"
+1588815421367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815421367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815421368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815421368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815423007	Marionette	INFO	Listening on port 34567
+1588815423097	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 101782, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 102131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 102131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815430963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYQnFK8"
+1588815431488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815431488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815431488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815431489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815433005	Marionette	INFO	Listening on port 46635
+1588815433080	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 102131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Attempting load of libEGL.so
+[Parent 102468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 102468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 102468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815449184	Marionette	INFO	Stopped listening on port 46635
+1588815454820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUC0vV7"
+1588815455245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815455245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815455246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815455246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815456624	Marionette	INFO	Listening on port 40993
+1588815456730	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 102806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 102806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 102806, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815469382	Marionette	INFO	Stopped listening on port 40993
+1588815474047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDXWXA5"
+1588815474441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815474441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815474441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815474441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815475852	Marionette	INFO	Listening on port 39427
+1588815475990	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 103146, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 103146, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815484684	Marionette	INFO	Stopped listening on port 39427
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588815489368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZy6PKo"
+1588815489797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815489797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815489797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815489797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815491316	Marionette	INFO	Listening on port 42335
+1588815491387	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 103501, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 103501, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815500320	Marionette	INFO	Stopped listening on port 42335
+1588815504888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejObZO0"
+1588815505279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815505279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815505279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815505279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815506610	Marionette	INFO	Listening on port 39675
+1588815506733	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 103784, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 103784, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588815512062	Marionette	INFO	Stopped listening on port 39675
+1588815516760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1HLm8o"
+1588815517155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815517155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815517157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815517157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815518504	Marionette	INFO	Listening on port 33405
+1588815518566	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 104069, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 104069, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588815531203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZtgZp9"
+[Parent 101782, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815533824	Marionette	INFO	Stopped listening on port 34425
+[Parent 102131, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1588815537915	Marionette	INFO	Stopped listening on port 34567
+1588815541792	Marionette	INFO	Stopped listening on port 33405
+1588815545621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588815545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588815545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588815545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588815546945	Marionette	INFO	Listening on port 37705
+1588815546953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588815630181	Marionette	INFO	Stopped listening on port 37705
