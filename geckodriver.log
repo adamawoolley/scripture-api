@@ -1542,3 +1542,1246 @@ console.error: (new Error("Connection closed before committing the transaction."
 1588815546953	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1588815630181	Marionette	INFO	Stopped listening on port 37705
+1588816692833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0eAiaN"
+1588816693220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588816693220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588816693220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588816693220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588816694506	Marionette	INFO	Listening on port 39465
+1588816694540	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+1588816703823	Marionette	INFO	Stopped listening on port 39465
+1588816717610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePDjPbK"
+*** You are running in headless mode.
+1588816717917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588816717917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588816717917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588816717918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588816719144	Marionette	INFO	Listening on port 43031
+1588816719217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588816729416	Marionette	INFO	Stopped listening on port 43031
+1588816772782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIQX10a"
+*** You are running in headless mode.
+1588816773084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588816773084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588816773084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588816773084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588816774558	Marionette	INFO	Listening on port 46627
+1588816774608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588816855224	Marionette	INFO	Stopped listening on port 46627
+[Parent 106185, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1588888431696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuse5Jx"
+1588888432094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888432095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888432095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888432095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888433463	Marionette	INFO	Listening on port 39751
+1588888433504	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+1588888456103	Marionette	INFO	Stopped listening on port 39751
+1588888502426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecynIO2"
+1588888502818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888502818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888502818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888502818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888504078	Marionette	INFO	Listening on port 43027
+1588888504132	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 3035, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 3035, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 3035, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588888540462	Marionette	INFO	Stopped listening on port 43027
+1588888680317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6vtB3G"
+1588888680715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888680715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888680715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888680715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888682012	Marionette	INFO	Listening on port 42693
+1588888682023	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588888721616	Marionette	INFO	Stopped listening on port 42693
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588888785884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTxeL1l"
+1588888786271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888786271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888786272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888786272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888787544	Marionette	INFO	Listening on port 45783
+1588888787591	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 3767, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 3767, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588888822165	Marionette	INFO	Stopped listening on port 45783
+1588888876826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2RsOCT"
+1588888877206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888877207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888877207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888877207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888878462	Marionette	INFO	Listening on port 43143
+1588888878534	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+1588888903931	Marionette	INFO	Stopped listening on port 43143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1588888959909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNzH7UE"
+1588888960292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588888960292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588888960292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588888960292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588888961538	Marionette	INFO	Listening on port 40619
+1588888961615	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+1588888986535	Marionette	INFO	Stopped listening on port 40619
+1588889416012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYlLFHh"
+1588889416399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588889416399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588889416399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588889416399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588889417661	Marionette	INFO	Listening on port 34223
+1588889417719	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 5054, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 5054, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588889443188	Marionette	INFO	Stopped listening on port 34223
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=26.1358) 1588889452906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO5veZg"
+1588889453294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588889453294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588889453294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588889453294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588889454566	Marionette	INFO	Listening on port 34565
+1588889454612	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 5381, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 5381, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588889486675	Marionette	INFO	Stopped listening on port 34565
+1588889804433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqYUdhI"
+1588889804816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588889804816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588889804816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588889804816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588889806093	Marionette	INFO	Listening on port 35677
+1588889806140	Marionette	WARN	TLS certificate errors will be ignored for this session
+Attempting load of libEGL.so
+[Parent 5838, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 5838, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 5838, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588889840604	Marionette	INFO	Stopped listening on port 35677
+1588889857478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVGRD6t"
+*** You are running in headless mode.
+1588889857776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588889857776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588889857776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588889857776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588889858986	Marionette	INFO	Listening on port 38823
+1588889859085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6185, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6185, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 6185, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588889888806	Marionette	INFO	Stopped listening on port 38823
+1588890302315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00cQgO"
+*** You are running in headless mode.
+1588890302609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890302609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890302610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890302610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588890303815	Marionette	INFO	Listening on port 41351
+1588890303823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6497, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 6497, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588890332420	Marionette	INFO	Stopped listening on port 41351
+1588890633793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile40I5GQ"
+*** You are running in headless mode.
+1588890634091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890634091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890634091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890634091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588890635300	Marionette	INFO	Listening on port 33483
+1588890635400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6812, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 6812, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1588890660173	Marionette	INFO	Stopped listening on port 33483
+1588890695164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOABTw8"
+*** You are running in headless mode.
+1588890695463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890695464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890695464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890695464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588890696659	Marionette	INFO	Listening on port 44057
+1588890696670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588890727063	Marionette	INFO	Stopped listening on port 44057
+1588890733626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilengbpti"
+*** You are running in headless mode.
+1588890733927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890733927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890733927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890733927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588890735136	Marionette	INFO	Listening on port 45321
+1588890735233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7386, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 7386, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7386, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588890762314	Marionette	INFO	Stopped listening on port 45321
+1588890768052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexp5xyZ"
+*** You are running in headless mode.
+1588890768351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588890768351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588890768351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588890768351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588890769562	Marionette	INFO	Listening on port 46665
+1588890769659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588890799854	Marionette	INFO	Stopped listening on port 46665
+1588891430622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK7LA28"
+*** You are running in headless mode.
+1588891430932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588891430932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588891430932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588891430933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588891432150	Marionette	INFO	Listening on port 42347
+1588891432229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 8995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 8995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588891481259	Marionette	INFO	Stopped listening on port 42347
+1588893010323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI3C7Ah"
+*** You are running in headless mode.
+1588893015786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588893015786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588893015786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588893015786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588893017024	Marionette	INFO	Listening on port 40249
+1588893017047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588893050500	Marionette	INFO	Stopped listening on port 40249
+1588893124308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0LN6YW"
+*** You are running in headless mode.
+1588893124722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588893124722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588893124723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588893124723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588893125936	Marionette	INFO	Listening on port 44289
+1588893126015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588893165218	Marionette	INFO	Stopped listening on port 44289
+1588893930262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejs6WyZ"
+*** You are running in headless mode.
+1588893930681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588893930682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588893930682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588893930682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588893931975	Marionette	INFO	Listening on port 37853
+1588893932069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588893974891	Marionette	INFO	Stopped listening on port 37853
+1588894703065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXxjbiu"
+*** You are running in headless mode.
+1588894703371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588894703371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588894703371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588894703371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588894704594	Marionette	INFO	Listening on port 46483
+1588894704671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 11839, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 11839, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 11839, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588894742069	Marionette	INFO	Stopped listening on port 46483
+1588894948274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileui662v"
+*** You are running in headless mode.
+1588894948584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588894948584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588894948584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588894948585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588894949825	Marionette	INFO	Listening on port 42885
+1588894949880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588894985593	Marionette	INFO	Stopped listening on port 42885
+1588895244513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiFKYfa"
+*** You are running in headless mode.
+1588895244813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895244814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895244814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895244814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895246027	Marionette	INFO	Listening on port 35325
+1588895246121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 12509, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 12509, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 12509, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588895279930	Marionette	INFO	Stopped listening on port 35325
+1588895639809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledICyvp"
+*** You are running in headless mode.
+1588895640109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895640109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895640109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895640109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895641317	Marionette	INFO	Listening on port 35797
+1588895641416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 12995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 12995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 12995, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588895677652	Marionette	INFO	Stopped listening on port 35797
+1588895772636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ovE6B"
+*** You are running in headless mode.
+1588895772936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895772937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895772937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895772937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895774166	Marionette	INFO	Listening on port 43397
+1588895774243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 13329, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 13329, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 13329, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588895820554	Marionette	INFO	Stopped listening on port 43397
+1588895906008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegF71yN"
+*** You are running in headless mode.
+1588895906313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588895906313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588895906313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588895906313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588895907512	Marionette	INFO	Listening on port 42511
+1588895907615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1588895940247	Marionette	INFO	Stopped listening on port 42511
+1588897910951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRBsEaf"
+*** You are running in headless mode.
+1588897911252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588897911252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588897911253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588897911253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588897912466	Marionette	INFO	Listening on port 41139
+1588897912557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 14183, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 14183, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 14183, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1588897949835	Marionette	INFO	Stopped listening on port 41139
+1589762255792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJjFaNw"
+*** You are running in headless mode.
+1589762256255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589762256256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589762256256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589762256256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589762257872	Marionette	INFO	Listening on port 44763
+1589762257921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 2621, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 2621, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1589762297705	Marionette	INFO	Stopped listening on port 44763
+1589762739190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem4IhMm"
+*** You are running in headless mode.
+1589762739490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589762739491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589762739491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589762739491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589762740743	Marionette	INFO	Listening on port 43357
+1589762740796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1589762773535	Marionette	INFO	Stopped listening on port 43357
+1591232928685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8xT2MJ"
+*** You are running in headless mode.
+1591232929000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591232929000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591232929000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591232929000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591232930284	Marionette	INFO	Listening on port 33915
+1591232930293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591233007801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBPetlU"
+*** You are running in headless mode.
+1591233008098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233008098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233008098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233008098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233009317	Marionette	INFO	Listening on port 43659
+1591233009409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591233178032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePn1pof"
+*** You are running in headless mode.
+1591233178336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233178336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233178336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233178336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233179542	Marionette	INFO	Listening on port 32915
+1591233179638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591233245087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUaT7dt"
+*** You are running in headless mode.
+1591233245389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233245390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233245390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233245390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233246618	Marionette	INFO	Listening on port 35593
+1591233246694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591233268803	Marionette	INFO	Stopped listening on port 35593
+1591233626824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5n6NTd"
+*** You are running in headless mode.
+1591233627136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233627136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233627136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233627136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233628357	Marionette	INFO	Listening on port 34733
+1591233628431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591233661553	Marionette	INFO	Stopped listening on port 34733
+1591233857255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevs5ABq"
+*** You are running in headless mode.
+1591233857557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233857557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233857557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233857558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233858802	Marionette	INFO	Listening on port 44985
+1591233858862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7164, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 7164, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7164, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591233888662	Marionette	INFO	Stopped listening on port 44985
+1591233939253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3Eklp"
+*** You are running in headless mode.
+1591233939549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591233939550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591233939550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591233939550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591233940770	Marionette	INFO	Listening on port 42303
+1591233940861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7445, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7445, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591233967039	Marionette	INFO	Stopped listening on port 42303
+1591234221457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecvLhi5"
+*** You are running in headless mode.
+1591234221763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234221763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234221763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234221763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234222994	Marionette	INFO	Listening on port 36723
+1591234223063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7823, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7823, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591234250096	Marionette	INFO	Stopped listening on port 36723
+1591234344221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeI8wuP"
+*** You are running in headless mode.
+1591234344519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234344519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234344519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234344520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234345747	Marionette	INFO	Listening on port 40543
+1591234345828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591234369342	Marionette	INFO	Stopped listening on port 40543
+1591234576870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileynOX4C"
+*** You are running in headless mode.
+1591234577181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234577182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234577182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234577182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234578403	Marionette	INFO	Listening on port 37651
+1591234578476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 8459, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 8459, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591234596985	Marionette	INFO	Stopped listening on port 37651
+1591234745349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEgn6ly"
+*** You are running in headless mode.
+1591234745658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234745658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234745659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234745659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234746883	Marionette	INFO	Listening on port 40519
+1591234746955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591234762329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZsc4Je"
+*** You are running in headless mode.
+1591234762651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234762652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234762652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234762652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 8850, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591234763902	Marionette	INFO	Listening on port 43799
+1591234763935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 8850, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591234770231	Marionette	INFO	Stopped listening on port 40519
+Exiting due to channel error.
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 9118, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 9118, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9118, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591234796799	Marionette	INFO	Stopped listening on port 43799
+1591234807803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilermpMT7"
+*** You are running in headless mode.
+1591234808110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234808110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234808111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234808111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234809370	Marionette	INFO	Listening on port 33633
+1591234809409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591234845569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVLgHq"
+*** You are running in headless mode.
+1591234845873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234845874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234845874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234845874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234847070	Marionette	INFO	Listening on port 40031
+1591234847075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591234872864	Marionette	INFO	Stopped listening on port 40031
+1591234877416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFsZN9o"
+*** You are running in headless mode.
+1591234877828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591234877828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591234877828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591234877828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591234879073	Marionette	INFO	Listening on port 46473
+1591234879123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 10005, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 10005, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591234898652	Marionette	INFO	Stopped listening on port 46473
+1591235004753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtwhu9"
+*** You are running in headless mode.
+1591235005056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591235005057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591235005057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591235005057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591235006287	Marionette	INFO	Listening on port 40525
+1591235006360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 10301, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 10301, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591235034728	Marionette	INFO	Stopped listening on port 40525
+1591235041295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelm77xZ"
+*** You are running in headless mode.
+1591235041596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591235041596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591235041596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591235041596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591235042831	Marionette	INFO	Listening on port 40091
+1591235042901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 10587, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 10587, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591235070670	Marionette	INFO	Stopped listening on port 40091
+[Parent 5450, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1591235546817	Marionette	INFO	Stopped listening on port 33915
+[Parent 6083, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591235546895	Marionette	INFO	Stopped listening on port 32915
+1591235546905	Marionette	INFO	Stopped listening on port 43659
+1591474411755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles6SBg6"
+*** You are running in headless mode.
+1591474412074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474412075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474412075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474412075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474413360	Marionette	INFO	Listening on port 38665
+1591474413462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 5378, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 5378, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591474451530	Marionette	INFO	Stopped listening on port 38665
+1591474456089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7rNgjg"
+*** You are running in headless mode.
+1591474456390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474456390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474456391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474456391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474457621	Marionette	INFO	Listening on port 41661
+1591474457696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 5682, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 5682, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591474480099	Marionette	INFO	Stopped listening on port 41661
+1591474605923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5hchT"
+*** You are running in headless mode.
+1591474606262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474606262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474606263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474606263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474607470	Marionette	INFO	Listening on port 44705
+1591474607530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591474633961	Marionette	INFO	Stopped listening on port 44705
+1591474638526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejCDMN0"
+*** You are running in headless mode.
+1591474638833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474638833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474638833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474638834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474640058	Marionette	INFO	Listening on port 42433
+1591474640132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 6311, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6311, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591474661569	Marionette	INFO	Stopped listening on port 42433
+[Parent 6311, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1591474835794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemfANQI"
+*** You are running in headless mode.
+1591474836096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474836096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474836097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474836097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474837293	Marionette	INFO	Listening on port 32825
+1591474837302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591474862801	Marionette	INFO	Stopped listening on port 32825
+1591474867370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePnAx66"
+*** You are running in headless mode.
+1591474867672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591474867672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591474867672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591474867672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591474868873	Marionette	INFO	Listening on port 34091
+1591474868878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591474892306	Marionette	INFO	Stopped listening on port 34091
+1591475006838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWvQCUI"
+*** You are running in headless mode.
+1591475007148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475007148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475007148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475007148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475008381	Marionette	INFO	Listening on port 41837
+1591475008444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7298, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 7298, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591475037509	Marionette	INFO	Stopped listening on port 41837
+1591475042070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuNssi0"
+*** You are running in headless mode.
+1591475042369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475042369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475042369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475042369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475043581	Marionette	INFO	Listening on port 37691
+1591475043679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7589, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 7589, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591475072959	Marionette	INFO	Stopped listening on port 37691
+1591475149221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtR4NR"
+*** You are running in headless mode.
+1591475149645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475149645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475149646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475149646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475151248	Marionette	INFO	Listening on port 35469
+1591475151328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 7920, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7920, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591475197456	Marionette	INFO	Stopped listening on port 35469
+1591475202025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebP0hHc"
+*** You are running in headless mode.
+1591475202495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475202495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475202495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475202496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475203844	Marionette	INFO	Listening on port 43901
+1591475203934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591475231695	Marionette	INFO	Stopped listening on port 43901
+1591475309331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoS3Je1"
+*** You are running in headless mode.
+1591475309635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475309635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475309636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475309636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475310852	Marionette	INFO	Listening on port 33621
+1591475310940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 8607, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 8607, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591475339789	Marionette	INFO	Stopped listening on port 33621
+1591475344345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOU5aWt"
+*** You are running in headless mode.
+1591475344649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475344649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475344649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475344649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475345864	Marionette	INFO	Listening on port 36699
+1591475345952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591475370005	Marionette	INFO	Stopped listening on port 36699
+1591475596724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejztVi4"
+*** You are running in headless mode.
+1591475597030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475597030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475597030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475597030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475598474	Marionette	INFO	Listening on port 40567
+1591475598531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 9210, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 9210, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591475620339	Marionette	INFO	Stopped listening on port 40567
+1591475624898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqPQ4Ji"
+*** You are running in headless mode.
+1591475625199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591475625200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591475625200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591475625200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591475626427	Marionette	INFO	Listening on port 45187
+1591475626506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 9500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 9500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591475654645	Marionette	INFO	Stopped listening on port 45187
+1591487447090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileILOTKP"
+*** You are running in headless mode.
+1591487447398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487447399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487447399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487447399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487448610	Marionette	INFO	Listening on port 32911
+1591487448696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 12594, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 12594, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591487479689	Marionette	INFO	Stopped listening on port 32911
+1591487485460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJB0nuR"
+*** You are running in headless mode.
+1591487485769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487485769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487485769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487485769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487487003	Marionette	INFO	Listening on port 41481
+1591487487067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591487513450	Marionette	INFO	Stopped listening on port 41481
+1591487753902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbjLdt"
+*** You are running in headless mode.
+1591487754202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487754203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487754203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487754203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487755433	Marionette	INFO	Listening on port 46561
+1591487755509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591487778017	Marionette	INFO	Stopped listening on port 46561
+1591487790152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekCNIQa"
+*** You are running in headless mode.
+1591487790455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487790455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487790455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487790455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487791680	Marionette	INFO	Listening on port 37575
+1591487791759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 13517, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 13517, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591487821979	Marionette	INFO	Stopped listening on port 37575
+1591487904754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDp84dI"
+*** You are running in headless mode.
+1591487905082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487905082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487905083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487905083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487906343	Marionette	INFO	Listening on port 36357
+1591487906360	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=13.4054) Exiting due to channel error.
+Exiting due to channel error.
+1591487928223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQBZKsH"
+*** You are running in headless mode.
+1591487928524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487928524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487928524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487928524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487929739	Marionette	INFO	Listening on port 38519
+1591487929830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 14133, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 14133, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+1591487953843	Marionette	INFO	Stopped listening on port 38519
+1591487958377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee2w1ct"
+*** You are running in headless mode.
+1591487958684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487958684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487958684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487958684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487959928	Marionette	INFO	Listening on port 33551
+1591487959984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591487982079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO216xJ"
+*** You are running in headless mode.
+1591487982493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591487982494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591487982494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591487982494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591487983750	Marionette	INFO	Listening on port 37915
+1591487983785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591487990058	Marionette	INFO	Stopped listening on port 33551
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 14724, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 14724, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591488012929	Marionette	INFO	Stopped listening on port 37915
+1591488018444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDqaTox"
+*** You are running in headless mode.
+1591488018779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591488018779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591488018779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591488018780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591488020022	Marionette	INFO	Listening on port 40627
+1591488020050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 15016, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 15016, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591488054985	Marionette	INFO	Stopped listening on port 40627
+1591488185454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxZKgy"
+*** You are running in headless mode.
+1591488185761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591488185762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591488185762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591488185762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591488186983	Marionette	INFO	Listening on port 40443
+1591488187059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591488189705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFil7Ac"
+*** You are running in headless mode.
+1591488190046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591488190047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591488190047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591488190047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591488191294	Marionette	INFO	Listening on port 42095
+1591488191312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 15358, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 15358, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591488226765	Marionette	INFO	Stopped listening on port 40443
+1591488230075	Marionette	INFO	Stopped listening on port 42095
+1591488234732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTUR0RB"
+*** You are running in headless mode.
+1591488235037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591488235037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591488235037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591488235037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591488236257	Marionette	INFO	Listening on port 40349
+1591488236340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 15926, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: https://cdnssl.clicktale.net/www/tc/crossdomain.html?cookie=WRUIDCD, line 43: TypeError: localStorage is null
+[Parent 15926, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1591488263467	Marionette	INFO	Stopped listening on port 40349
+1591488334612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiHCQD9"
+*** You are running in headless mode.
+1591488334925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591488334925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591488334925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591488334926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591488336268	Marionette	INFO	Listening on port 39943
+1591488336319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://edge.ldscdn.org/cdn2/csp/ldsorg/abn/at.js, line 2: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1591488370090	Marionette	INFO	Stopped listening on port 39943
